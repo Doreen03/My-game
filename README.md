@@ -1,1 +1,1 @@
-# My-game
+# This repo contains the pitch for my game.
