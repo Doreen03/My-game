@@ -1,0 +1,62 @@
+Game discription: 	
+	A horror game disguised as a educational game. The idea is that if you make a mistake (or mistakes) rather than continue to the next level, the game will transform to a horror game. Each time you complete a horror level the the player will go back to the main story.
+	 
+	 For example The player makes a mistake(s) in the first level. The player is then put into the first horror level. The player must complete the horror level to continue. Once the the horror level is completed the player goes back to the main story on level 2. So the player will miss out on level one's main story. So basically, you have to complete both the horror levels and the main levels to get the main story.
+
+	 The main levels will be mostly text and puzzel based. The player does the levels with their mouse and keyboard. While the horror levels will have a character to control.
+
+	 The alternate levels don't have to be horror, it could be another genre if horror is too difficult. Action/Adventure could also work.
+
+
+
+Characters: 
+		- The Teacher:
+				This character will guide the player through the main levels. They will help explain the puzzles.
+
+	    - The Monsters: The monsters will be the main antagonists in these horror levels. There are two monsters. One is bigger than the other The player will be running from these monsters.
+
+	    - Jane Doe:
+	    		This is the characters that the player controls only in the alternate levels.
+
+
+
+Characters’ actions and goals:
+		- In the main levels the goal will be to complete the puzzles to get the complete story.
+
+		-In the alternate levels the goal is to survive the two monsters who are trying to kill you.The player can't hurt the mosters until the player collects three objects. Once these objects are collected the palyer can kill the monsters. The levels will get more difficult as the levels progresses. 
+
+
+
+Game Win/Lose conditions:
+		- In the main levels, the player can win by doing the levels correctly.	If the player loses the game will be transfered to the alternate levels.
+
+		- In the alternate levels, the player can win by collecting the objects and defeating the two monsters. The player can lose by losing all of their health.
+
+
+
+Progression of levels:
+		- In the main levels:
+				*The first level will have three basic math problems for the player to complete.
+
+				*The second level will have a puzzle for the player to complete.
+
+				*The third level will have a english text. The player has to find the nouns and the adjectives in the text to complete the level.
+
+		-In the alternate levels:
+				*The first level will have the big monster trying to kill you. The player must get two objects, in order to kill the big monster. Killing the big monster will complete the level.
+
+				*The second level will have both the small and the big monsters. They will try to kill you. You have to collect four objects. Once you collect them all you will be able to kill the big monster only. The player won't be able to inflict damage on the smaller monster. To complete the level the player has to kill the big monster while the smaller monster is trying to kill you.
+
+				*The third level will only have the bigger monster chasing and trying to kill the player. The bigger monster now has a lot more health. Once the player collects six objects the bigger monster will disappear and the player now has to fight the smaller monster. The smaller monster has a lot more health than the bigger monster. To complete the level the player has to defeat the smaller demon. 
+
+
+
+
+level Sources of inspiration:
+		Coraline, another games i can't think of right now.
+
+
+
+What skills/interests you are looking for in a team mate:
+		-Creative People.
+		-People willing to listen to each others ideas. 
